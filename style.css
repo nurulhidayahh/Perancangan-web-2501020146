@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #7de75d58;
+    color: #29243A;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+h1, h4 {
+    color: #8d5d0f;
+}
+
+img {
+    border-radius: 10px;
+}
+
+a {
+    color: #8f7d08;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000000;
+}
